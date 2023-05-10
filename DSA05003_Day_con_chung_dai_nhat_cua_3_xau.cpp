@@ -5,7 +5,7 @@ using namespace std;
 int f[101][101][101];
 
 void Solve() {
-    int n, m, k, res = 0;
+    int n, m, k, reOs = 0;
     cin >> n >> m >> k;
     string x, y, z;
     cin >> x >> y >> z;
